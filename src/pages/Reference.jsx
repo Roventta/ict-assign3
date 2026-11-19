@@ -3,14 +3,13 @@ import ContentCard from '../components/ContentCard'
 
 const items = [
   <>
-    CAST. (2024). <em>CAST Universal Design for Learning Guidelines version 3.0</em>.
-    CAST.{' '}
+    CAST. (2024). <em>CAST Universal Design for Learning Guidelines version 3.0</em>. CAST.{' '}
     <a href="https://udlguidelines.cast.org/" target="_blank" rel="noreferrer">
       https://udlguidelines.cast.org/
     </a>
   </>,
   <>
-    de Jong, T., Lazonder, A. W., Chinn, C. A., Fischer, F., Gobert, J.,
+    de Jong, T., Lazonder, A. W., Chinn, C. A., Fischer, F., Gobert,
     Hmelo-Silver, C. E., Koedinger, K. R., Krajcik, J. S., Kyza, E. A.,
     Linn, M. C., Pedaste, M., Scheiter, K., &amp; Zacharia, Z. C. (2023).
     Let’s talk evidence – the case for combining inquiry-based and direct
@@ -31,7 +30,11 @@ const items = [
     Kimmons, R., Graham, C. R., &amp; West, R. E. (2020). The PICRAT model
     for technology integration in teacher preparation.{' '}
     <em>Contemporary Issues in Technology &amp; Teacher Education, 20</em>(1).{' '}
-    <a href="https://citejournal.org/volume-20/issue-1-20/general/the-picrat-model-for-technology-integration-in-teacher-preparation/" target="_blank" rel="noreferrer">
+    <a
+      href="https://citejournal.org/volume-20/issue-1-20/general/the-picrat-model-for-technology-integration-in-teacher-preparation/"
+      target="_blank"
+      rel="noreferrer"
+    >
       https://citejournal.org/volume-20/issue-1-20/general/the-picrat-model-for-technology-integration-in-teacher-preparation/
     </a>
   </>,
@@ -50,6 +53,16 @@ const items = [
     synthesis. <em>Dyslexia, 20</em>(4), 346–369.{' '}
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4253321/" target="_blank" rel="noreferrer">
       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4253321/
+    </a>
+  </>,
+  <>
+    Porta, T., Quane, K., &amp; Gilbert, D. (2026). ‘Nobody is prioritised;
+    they are all prioritised’: Teachers’ application and conceptualisation
+    of universal design for learning in inclusive mathematical learning
+    environments. <em>Learning Environments Research, 29</em>(2),
+    Article 25.{' '}
+    <a href="https://doi.org/10.1007/s10984-026-09581-4" target="_blank" rel="noreferrer">
+      https://doi.org/10.1007/s10984-026-09581-4
     </a>
   </>,
   <>
