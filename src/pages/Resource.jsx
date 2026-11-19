@@ -224,7 +224,7 @@ ${q4 || 'No response provided.'}
             />
 
             <div className="video-alternative">
-              <span>🎥</span>
+              <span>▶</span>
               <p>Or simply record your reflection in your video.</p>
             </div>
           </div>
@@ -255,7 +255,7 @@ ${q4 || 'No response provided.'}
             />
 
             <div className="video-alternative">
-              <span>🎥</span>
+              <span>▶</span>
               <p>Or simply record your reflection in your video.</p>
             </div>
           </div>
@@ -286,7 +286,7 @@ ${q4 || 'No response provided.'}
             />
 
             <div className="video-alternative">
-              <span>🎥</span>
+              <span>▶</span>
               <p>Or simply record your reflection in your video.</p>
             </div>
           </div>
