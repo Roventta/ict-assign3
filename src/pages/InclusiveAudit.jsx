@@ -6,7 +6,7 @@ export default function InclusiveAudit() {
       <article className="inclusive-audit-card">
         <header className="inclusive-audit-heading">
               <span className="inclusive-audit-label">AUDIT 1</span>
-          <h1>Stating Clear Learning Goals</h1>
+          <h2>Stating Clear Learning Goals</h2>
         </header>
 
         <div className="inclusive-audit-comparison" aria-label="Comparison of the old and revised introductory content">
@@ -44,7 +44,7 @@ export default function InclusiveAudit() {
       <article className="inclusive-audit-card">
         <header className="inclusive-audit-heading">
               <span className="inclusive-audit-label">AUDIT 2</span>
-          <h1>Connecting Prior Knowledge</h1>
+          <h2>Connecting Prior Knowledge</h2>
         </header>
 
         <div
@@ -90,7 +90,7 @@ export default function InclusiveAudit() {
 <article className="inclusive-audit-card">
   <header className="inclusive-audit-heading">
     <span className="inclusive-audit-label">AUDIT 3</span>
-    <h1>Providing a Video Demonstration</h1>
+    <h2>Providing a Video Demonstration</h2>
   </header>
 
   <div
@@ -148,7 +148,7 @@ export default function InclusiveAudit() {
       <article className="inclusive-audit-card">
         <header className="inclusive-audit-heading">
           <span className="inclusive-audit-label">AUDIT 4</span>
-          <h1>Providing a Structured Learning Worksheet</h1>
+          <h2>Providing a Structured Learning Worksheet</h2>
         </header>
 
         <div
@@ -215,7 +215,7 @@ export default function InclusiveAudit() {
       <article className="inclusive-audit-card">
         <header className="inclusive-audit-heading">
           <span className="inclusive-audit-label">AUDIT 5</span>
-          <h1>Providing an Alternative Way to Demonstrate Learning</h1>
+          <h2>Providing an Alternative Way to Demonstrate Learning</h2>
         </header>
 
         <div
@@ -271,7 +271,7 @@ export default function InclusiveAudit() {
       <article className="inclusive-audit-card">
         <header className="inclusive-audit-heading">
           <span className="inclusive-audit-label">UDL DESIGN AUDIT</span>
-          <h1>Summary of Inclusive Design Improvements</h1>
+          <h2>Summary of Inclusive Design Improvements</h2>
         </header>
 
         <section className="inclusive-audit-section">
