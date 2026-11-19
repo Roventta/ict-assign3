@@ -7,6 +7,7 @@ export default function Sidebar() {
       <NavLink to="/resource">Digital Citizenship</NavLink>
       <NavLink to="/inclusive_audit">Inclusive Audit</NavLink>
       <NavLink to="/resource_two">Teaching Resource</NavLink>
+      <NavLink to="justification">Teaching Resource Justification</NavLink>
       <NavLink to="professional_learning">Professional Learning</NavLink>
       <NavLink to="/reference">Reference</NavLink>
     </nav>

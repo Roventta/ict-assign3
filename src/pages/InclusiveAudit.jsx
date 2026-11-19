@@ -262,17 +262,7 @@ export default function InclusiveAudit() {
           </p>
 
           <p>
-            Pino and Mortari (2014) suggested that students with dyslexia
-            may experience difficulties with these tasks, as gaps in
-            their literacy skills can prevent them from engaging with
-            the actual lesson content or effectively demonstrating the
-            full extent of their subject knowledge. Pino and Mortari
-            (2014) further suggested that students value flexible
-            learning environments that allow them to approach content
-            and demonstrate their learning in different ways and at
-            different paces. This change responds to these findings by
-            providing students with an alternative tool to construct
-            and organise their learning.
+            Pino and Mortari (2014) suggested that students with dyslexia are challenged by those tasks, as their gaps of literal skills stop them from engaging with the actual lesson content or effectively demonstrate the full extent of their subject mastery. Porta et al. (2026) then suggested that students valued flexible learning environments that allow them to approach the content and demonstrate their learning in different ways and paces. This change explicitly responds to these findings and provides students with a different tool to construct and organize their learning.
           </p>
         </section>
       </article>
